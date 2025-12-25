@@ -3,7 +3,7 @@
 
 ### Anggota : 
 
-Syallomus Ruben G. B. T 103052400086 
-Jihan Fauziah Rahmah 103052430010 
-Nayma Najely 103052430004 
+- Syallomus Ruben G. B. T 103052400086 
+- Jihan Fauziah Rahmah 103052430010 
+- Nayma Najely 103052430004 
 
